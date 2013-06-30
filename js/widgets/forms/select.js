@@ -13,7 +13,7 @@ $.widget( "mobile.selectmenu", $.mobile.widget, $.extend( {
 	options: {
 		theme: null,
 		disabled: false,
-		icon: "arrow-d",
+		icon: "carat-d",
 		iconpos: "right",
 		inline: false,
 		corners: true,
