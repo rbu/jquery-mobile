@@ -60,7 +60,7 @@
 			<li><a href="test/theming/" data-ajax="false">Theme A (default)</a></li>
 			<li><a href="test/theming/theme-b.php" data-ajax="false">Theme B</a></li>
 			<li data-role="list-divider">Icons</li>
-			<li><a href="test/icons/font-icons.php" data-ajax="false">Font icons</a></li>
+			<li><a href="test/icons/index.html" data-ajax="false">Grunticon - SVG icons with fallback</a></li>
         </ul>
 
 	</div><!-- /content -->
